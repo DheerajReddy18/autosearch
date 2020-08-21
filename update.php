@@ -24,7 +24,7 @@
 <body>
   <div class="container" >
      <h3 style="text-align:center">  NITT</h3>
-   <form  action="server.php" method="post">
+   <form  action="search.php" method="post">
         
 	 <label for="name">Name:</label>
 	 <br />
